@@ -3,8 +3,10 @@ The model was downloaded in local machine and then app was sremaed using streaml
 The chain can be traced using Langsmith
 
 Tools used:
-✅ Llama 3.2 – Powerful open-weight LLM
+✅ Llama 3.2 – Powerful open-source LLM model
+
 ✅ Ollama – Simplified LLM deployment
+
 ✅ Streamlit – Rapid UI development
 
 
